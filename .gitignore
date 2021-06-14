@@ -1,6 +1,8 @@
 # Untracked Files
 config.py
 config.js
+201908-citibike-tripdata.csv
+citibike_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
