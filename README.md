@@ -4,7 +4,7 @@
 
 # Overview of the statistical analysis:
 
-The purpose of this analysis was to discover important information about ridership and utilization from publicly available data from Citi Bike in New York in order to determine whether starting a similar bike sharing company in Iowa. We've chosen August as the month to analyze (since ridership in summer months would show sufficient volume), and need to know when the bikes are used, for how long they are used, and who is using them.
+The purpose of this analysis was to discover important information about ridership and utilization from publicly available data from Citi Bike in New York. The month of August was chosen because ridership in summer months would show sufficient volume. This provides sufficient volumen to determine when the bikes are used, for how long they are used, and who is using them.
 
 # Results:
 
