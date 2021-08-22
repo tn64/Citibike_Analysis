@@ -7,7 +7,7 @@
 The purpose of this analysis was to discover important information about ridership and utilization from publicly available data from Citi Bike in New York. The month of August was chosen because ridership in summer months would show sufficient volume. This provides sufficient volumen to determine when the bikes are used, for how long they are used, and who is using them.
 
 # Tools Used:
-- Python, Pandas, Tableau
+- Python, Pandas, Jupyter Notebook, Tableau
 
 # Results:
 
